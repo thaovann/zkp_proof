@@ -1,0 +1,12 @@
+1,1,2,main.isWinner
+2,2,2,main.p
+3,3,2,main.q
+4,4,2,main.n
+5,5,2,main.computedN
+6,6,2,main.diff
+7,7,1,main.checkEqual.out
+8,-1,1,main.checkEqual.in[0]
+9,-1,1,main.checkEqual.in[1]
+10,8,0,main.checkEqual.n2b.out[0]
+11,9,0,main.checkEqual.n2b.out[1]
+12,10,0,main.checkEqual.n2b.in
